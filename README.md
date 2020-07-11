@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is Jay Mehta
 
 <!--
 **jaypajji4444/jaypajji4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m A Full-Stack Developer
+- 🌱 I’m interested in all fields of Computer Science and I keep on exploring them .
+- 📫  Reach me out at: jaymehtayds24@gmail.com
