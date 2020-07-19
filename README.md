@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi There👋, I'm Jay Mehta</h1>
+
 
 <!--
 **jaypajji4444/jaypajji4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Profile
-![](https://github.com/jaypajji4444/jaypajji4444/blob/master/jay-profile.gif)
+
+<p align="center"><img src="https://github.com/jaypajji4444/jaypajji4444/blob/master/jay-profile.gif" /></p>
+## Profile
+<h1 align="center">Hi There👋, I'm Jay Mehta</h1>
 
 - 🔭 I’m A Full-Stack Developer
 - 🌱 I’m interested in all fields of Computer Science and I keep on exploring them .
