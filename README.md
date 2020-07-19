@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"><img src="https://github.com/jaypajji4444/jaypajji4444/blob/master/jay-profile.gif" /></p>
-## Profile
+
 <h1 align="center">Hi There👋, I'm Jay Mehta</h1>
 
 - 🔭 I’m A Full-Stack Developer
